@@ -186,7 +186,8 @@ body {
 
 #act .flex-box2 h1 {
   font-size: 24px;
-  color: #FFFCFB;
+  padding: 5px 0;
+  color: #213448;
   text-align: center;
   margin: 0;
 }
