@@ -26,18 +26,18 @@ body {
   z-index: 1000;
 }
 
-.titelbox {
+.titlebox {
   display: flex;
   justify-content: flex-start;
   align-items: center;
 }
 
-.titelbox > h2 {
+.titlebox > h2 {
   margin-left: 20px;
   color: #fdfdfd;
 }
 
-.titelbutton {
+.titlebutton {
   display: flex;
   justify-content: flex-end;
   gap: 20px;
@@ -55,9 +55,9 @@ body {
 }
 
 .HeaderBox:hover {
-      background: #FFFCFB;
-      color: #213448;
-    }
+  background: #FFFCFB;
+  color: #213448;
+}
 
 .grid-container {
   display: grid;
@@ -86,20 +86,20 @@ body {
 }
 
 .flex-box1 h2 {
-    font-size: 70px;
-    color: #4682A9;
+  font-size: 70px;
+  color: #4682A9;
 }
 
 .flex-box1 h1 {
-    font-size: 80px;
+  font-size: 80px;
 }
 
 .flex-box1 p.name{
-    font-size: 30px;
+  font-size: 30px;
 }
 
 .flex-box1 p{
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .buttonbox1 {
@@ -116,8 +116,8 @@ body {
 }
 
 .buttonbox1:hover{
-    background: #0a5588;
-    transform: scale(1.05);
+  background: #0a5588;
+  transform: scale(1.05);
 }
 
 .flex-container-p2 {
@@ -146,22 +146,22 @@ body {
 }
 
 .flex-box3 h2 {
-    display: flex;
-    font-size: 70px;
-    color: #4682A9;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+  display: flex;
+  font-size: 70px;
+  color: #4682A9;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 .flex-box1 a{
-    text-decoration: none;
-    color: #FFFCFB;
+  text-decoration: none;
+  color: #FFFCFB;
 }
 
 .flex-box1 a:hover{
-    text-decoration: none;
-    color: #ffe8e0;
+  text-decoration: none;
+  color: #ffe8e0;
 }
 
 #act .imagebox2 {
